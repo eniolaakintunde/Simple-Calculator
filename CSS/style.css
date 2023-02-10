@@ -57,3 +57,6 @@ form input.equal {
     height: 40px;
     
 }
+.value  .display{
+    opacity: 0.5;
+}
